@@ -13,3 +13,4 @@ export class UpdateOrganizationDto {
 export class ListAllEntities {
   limit: number;
 }
+
